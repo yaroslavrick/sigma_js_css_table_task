@@ -1,0 +1,20 @@
+table,
+th,
+td {
+  border: 1px solid;
+}
+
+.blue_td {
+  background-color: blue;
+  color: white;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+}
+
+.yellow_td {
+  background-color: yellow;
+  color: black;
+}
